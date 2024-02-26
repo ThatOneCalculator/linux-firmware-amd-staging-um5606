@@ -2528,6 +2528,11 @@ File: amdnpu/1502/ipu.sbin.1.1.0.274
 File: amdnpu/1502/ipu.sbin.1.2.0.280
 File: amdnpu/1502/1x4.xclbin.3.5.0.0-949
 File: amdnpu/1502/5x4.xclbin.3.5.0.0-950
+File: amdnpu/1502_00/ipu.sbin.255.0.5.260
+File: amdnpu/1502_00/ipu.sbin.1.1.0.274
+File: amdnpu/1502_00/ipu.sbin.1.2.0.280
+File: amdnpu/1502_00/1x4.xclbin.3.5.0.0-949
+File: amdnpu/1502_00/5x4.xclbin.3.5.0.0-950
 
 Licence: Redistributable. See LICENSE.amdnpu for details.
 
