@@ -2523,8 +2523,8 @@ Licence: Redistributable. See LICENSE.amdgpu for details.
 
 Driver: amdxdna - AMD Inference processor
 
-File: amdnpu/1502_00/npu.sbin.1.3.0.303
 File: amdnpu/1502_00/npu.sbin.1.4.1.309
+File: amdnpu/1502_00/npu.sbin.1.4.2.313
 
 Licence: Redistributable. See LICENSE.amdnpu for details.
 
