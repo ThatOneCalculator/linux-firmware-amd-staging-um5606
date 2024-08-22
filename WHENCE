@@ -4180,11 +4180,13 @@ Driver: ccp - Platform Security Processor (PSP) device
 File: amd/amd_sev_fam17h_model0xh.sbin
 Version: 2022-2-25
 File: amd/amd_sev_fam17h_model3xh.sbin
-Version: 2022-2-25
+Version: 2024-8-20
 File: amd/amd_sev_fam19h_model0xh.sbin
-Version: 2023-8-23
+Version: 2024-8-20
 File: amd/amd_sev_fam19h_model1xh.sbin
-Version: 2023-8-23
+Version: 2024-8-20
+File: amd/amd_sev_fam19h_modelaxh.sbin
+Version: 2024-8-20
 
 License: Redistributable. See LICENSE.amd-sev for details
 
@@ -5839,13 +5841,13 @@ Licence: Redistributable. See LICENCE.mediatek for details.
 Driver: mt7996e - MediaTek Wireless MACs for MT7996
 
 File: mediatek/mt7996/mt7996_wm.bin
-Version: 20240104161608
+Version: 20240809121753
 File: mediatek/mt7996/mt7996_wa.bin
-Version: 20240104161505
+Version: 20240809121718
 File: mediatek/mt7996/mt7996_rom_patch.bin
-Version: 20240104161614a
+Version: 20240809121758a
 File: mediatek/mt7996/mt7996_dsp.bin
-Version: 20231113135337
+Version: 20240809121650
 File: mediatek/mt7996/mt7996_eeprom.bin
 Version: 20230518
 
